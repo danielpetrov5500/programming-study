@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fa01018-8712-4ffe-ba38-84971b2a35a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/fileexplorer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/fileexplorer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/fileexplorer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/fileexplorer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/fileexplorer.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/untitled/untitled_en_US.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/.idea/C++.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/FileExlorerInCPP/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="35hWyrfkmRFw71bbAwek7W7IrmS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/dani"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa01018-8712-4ffe-ba38-84971b2a35a7" name="Changes" comment="" />
+      <created>1763563043105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763563043105</updated>
+    </task>
+    <servers />
+  </component>
+</project>
